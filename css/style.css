@@ -2,7 +2,7 @@ body{
     font: 15px/1.5 Arial, Helvetica, sans-serif;
     padding:0;
     margin:0;
-    background-color:#a0a0a0;
+    background-color:#ffffff;
 }
 
 /*Global*/
@@ -19,7 +19,7 @@ ul{
 
 .button1{
     height:38px;
-    background:#ea00ff;
+    background:#0084ff;
     border:0;
     padding-left:20px;
     padding-right:20px;
@@ -39,7 +39,7 @@ header{
     color:#ffffff;
     padding-top:30px;
     min-height:70px;
-    border-bottom:#ea00ff 3px solid;
+    border-bottom:#0084ff 3px solid;
 }
 
 header a{
@@ -70,7 +70,7 @@ header nav{
 
 }
 header .highlight, header .current a{
-    color:#ea00ff;
+    color:#0084ff;
     font-weight:bold;
 }
 header a:hover{
@@ -83,7 +83,7 @@ header a:hover{
     min-width:400px;
     background:url('../img/diegoshpephoto.jpg') no-repeat 0 - 400px; 
     text-align:center;
-    color:#ffffff;
+    color:#000000;
 }
 
 #showcase h1{
@@ -98,7 +98,7 @@ header a:hover{
 
 #newsletter{
     padding:15px;
-    color:#ffffff;
+    color:#0084ff;
     background:#35424a;
 }
 
@@ -150,16 +150,16 @@ article#main-col{
 ul#services li{
     list-style: none;
     padding:20px;
-    border: #cccccc solid 1px;
+    border: #000000 solid 1px;
     margin-bottom:5px;
-    background:#e6e6e6;
+    background:#aaaaaa
 }
 
 footer{
     padding:20px;
     margin-top:20px;
     color:#ffffff;
-    background-color:#ea00ff;
+    background-color:#35424a;
     text-align: center;
 
 }
